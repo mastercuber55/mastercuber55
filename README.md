@@ -11,3 +11,5 @@ Right now, I'm learning Python, building serverless apps with javascript, and di
 </p>
 
 ![Snake animation](https://github.com/mastercuber55/mastercuber55/blob/output/github-contribution-grid-snake.svg)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer)
