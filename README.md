@@ -10,6 +10,4 @@ Right now, I'm learning Python, building serverless apps with javascript, and di
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastercuber55&layout=compact&langs_count=6&theme=tokyonight&title_color=bb86fc&text_color=c9d1d9&bg_color=00000000" height="150"/>
 </p>
 
-![Snake animation](https://github.com/mastercuber55/mastercuber55/blob/output/github-contribution-grid-snake.svg)
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer)
