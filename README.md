@@ -8,7 +8,10 @@ I'm a teenager who loves coding <3!! Right now, I'm learning Python, building se
 ![Discord](https://img.shields.io/discord/1421556731821166614?label=Discord+Server&logo=discord&color=blue)\
 ![WakaStats](https://github-readme-stats.vercel.app/api/wakatime?username=mastercuber55&theme=tokyonight&title_color=bb86fc&text_color=c9d1d9&bg_color=00000000&custom_title=Time+Spent+Coding!!&layout=compact&langs_count=7)
 #### 😼 Github Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=mastercuber55&show_icons=true&hide=prs,contribs&rank_icon=github&include_all_commits=true&theme=tokyonight&title_color=bb86fc&icon_color=bb86fc&text_color=c9d1d9&bg_color=00000000)
+<p>
+ <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=mastercuber55&show_icons=true&hide=prs,contribs&rank_icon=github&include_all_commits=true&theme=tokyonight&title_color=bb86fc&icon_color=bb86fc&text_color=c9d1d9&bg_color=00000000) -->
+</p>
+
 ![Github Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mastercuber55&layout=compact&langs_count=6&theme=tokyonight&title_color=bb86fc&text_color=c9d1d9&bg_color=00000000)
 ---
 #### Getting In Touch
