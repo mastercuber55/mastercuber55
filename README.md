@@ -29,6 +29,7 @@ I'm a teenager who loves coding <3!!  Right now, I'm learning python, building s
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![Discord.js](https://img.shields.io/badge/discord.js-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![RayLib](https://img.shields.io/badge/RAYLIB-FFFFFF?style=for-the-badge&logo=raylib&logoColor=black)
 ![SDL](https://img.shields.io/badge/SDL-007ACC?style=for-the-badge&logo=sdl&logoColor=white)
