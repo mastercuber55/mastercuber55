@@ -12,7 +12,7 @@ I'm a teenager who loves coding <3!!  Right now, I'm learning python, building s
 #### 📊 Stats since 30 August, 2025:
 ![Profile views](https://komarev.com/ghpvc/?username=mastercuber55&label=Profile%20views&color=0e75b6&style=flat)
 [![wakatime](https://wakatime.com/badge/user/2d52a3cb-6521-495a-8b59-998636bad84d.svg)](https://wakatime.com/@2d52a3cb-6521-495a-8b59-998636bad84d)
-![Discord](https://img.shields.io/discord/1421556731821166614?label=Discord+Server&logo=discord&color=blue)
+<!--![Discord](https://img.shields.io/discord/1421556731821166614?label=Discord+Server&logo=discord&color=blue)-->
 <!--
 ![Github Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mastercuber55&layout=compact&langs_count=6&theme=tokyonight&title_color=bb86fc&text_color=c9d1d9&bg_color=00000000)-->
 
