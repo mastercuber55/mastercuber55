@@ -6,7 +6,7 @@ I'm a teenager who loves coding <3!!  Right now, I'm learning python, building s
 - 🌠 [Dangan Starfall](https://github.com/mastercuber55/DanganStarFall) A Danganronpa fan executation game!!
 - ⚙️ [Frax Framework](https://github.com/mastercuber55/Frax-Framework) A structural framework designed for game development.
 - 💜 [Fischl](https://github.com/mastercuber55/Fischl) A serverless discord bot inspired by Genshin Impact :3
-- 🪨 [Pebble](https://github.com/mastercuber55/Pebble) A Chipmunk physics wrapper for simpler projects.
+- 💬 [Global Chat](https://github.com/mastercuber55/GlobalChat) A real time global chat app with web sockets!
 - 🤼 [Multiplayer Test](https://github.com/mastercuber55/MultiplayerTest) A LAN/Online multiplayer crossplatform game (android support too).
  
 #### 📊 Stats since 30 August, 2025:
