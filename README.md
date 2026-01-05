@@ -34,6 +34,7 @@ I'm a teenager who loves coding <3!!  Right now, I'm learning python, building s
 ![Discord.js](https://img.shields.io/badge/discord.js-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![RayLib](https://img.shields.io/badge/RAYLIB-FFFFFF?style=for-the-badge&logo=raylib&logoColor=black)
 ![SDL](https://img.shields.io/badge/SDL-007ACC?style=for-the-badge&logo=sdl&logoColor=white)
+![Godot Engine](https://img.shields.io/badge/Godot-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
