@@ -51,8 +51,4 @@ I'm a teenager who loves coding <3!!  Right now, I'm learning python, building s
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 
-
-#### Getting In Touch
-Join the development [Discord Server](https://discord.gg/7zvpWnE7QV) if you wanna get in contactt.!!
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer)
