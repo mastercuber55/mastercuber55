@@ -4,10 +4,9 @@ I'm a teenager who loves coding <3!!  Right now, I'm learning python, building s
 
 #### 💫 Main Projects
 - 🌠 [Dangan Starfall](https://github.com/mastercuber55/DanganStarFall) A Danganronpa fan executation game!!
-- ⚙️ [Frax Framework](https://github.com/mastercuber55/Frax-Framework) A structural framework designed for game development.
 - 💜 [Fischl](https://github.com/mastercuber55/Fischl) A serverless discord bot inspired by Genshin Impact :3
 - 💬 [Global Chat](https://github.com/mastercuber55/GlobalChat) A real time global chat app with web sockets!
-- 🤼 [Multiplayer Test](https://github.com/mastercuber55/MultiplayerTest) A LAN/Online multiplayer crossplatform game (android support too).
+- ⚙️ [Frax Framework](https://github.com/mastercuber55/Frax-Framework) A structural framework designed for game development.
  
 #### 📊 Stats since 30 August, 2025:
 ![Profile views](https://komarev.com/ghpvc/?username=mastercuber55&label=Profile%20views&color=0e75b6&style=flat)
